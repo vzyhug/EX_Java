@@ -1,3 +1,5 @@
+package SP;
+
 import java.util.Scanner;
 public class bai1_9 {
     static Scanner sc = new Scanner(System.in);

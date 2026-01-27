@@ -1,3 +1,5 @@
+package SP;
+
 import java.util.Scanner;
 import java.lang.Math;
 public class bai1_5 {

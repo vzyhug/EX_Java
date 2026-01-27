@@ -1,3 +1,5 @@
+package SP;
+
 import java.util.Scanner;
 public class bai1_18 {
     public static void main(String[] args) {

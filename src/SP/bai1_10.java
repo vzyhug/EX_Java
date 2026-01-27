@@ -1,3 +1,5 @@
+package SP;
+
 import java.util.Scanner;
 public class bai1_10 {
     public static boolean isLeapYear(int year) {
