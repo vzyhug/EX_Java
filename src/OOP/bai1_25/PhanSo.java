@@ -1,4 +1,4 @@
-package OOP;
+package OOP.bai1_25;
 import java.util.Scanner;
 public class PhanSo {
     int tu,mau;

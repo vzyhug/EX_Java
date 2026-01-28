@@ -1,6 +1,5 @@
-package OOP;
+package OOP.bai1_25;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class DSPhanSo {

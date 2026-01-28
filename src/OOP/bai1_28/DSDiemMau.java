@@ -1,4 +1,5 @@
-package OOP;
+package OOP.bai1_28;
+
 import java.util.Scanner;
 public class DSDiemMau {
     public static Scanner sc = new Scanner(System.in);

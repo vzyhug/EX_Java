@@ -1,5 +1,6 @@
-package OOP;
+package OOP.bai1_28;
 import java.util.Scanner;
+import OOP.bai1_24.Diem2D;
 
 public class DiemMau extends Diem2D{
     String mausac;
@@ -25,7 +26,7 @@ public class DiemMau extends Diem2D{
     }
 
     @Override
-    void NhapDiem() {
+    public void NhapDiem() {
         Scanner sc = new Scanner(System.in);
         super.NhapDiem();
         System.out.print("Nhap mau sac: ");
@@ -33,7 +34,7 @@ public class DiemMau extends Diem2D{
     }
 
     @Override
-    void HienThi() {
+    public void HienThi() {
         super.HienThi();
         System.out.println("Mau sac: "+this.mausac);
     }

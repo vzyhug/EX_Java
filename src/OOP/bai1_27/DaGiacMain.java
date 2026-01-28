@@ -1,4 +1,6 @@
-package OOP;
+package OOP.bai1_27;
+import OOP.bai1_24.Diem2D;
+
 import java.util.Scanner;
 public class DaGiacMain {
     public static Scanner sc = new Scanner(System.in);

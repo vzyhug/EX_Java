@@ -1,4 +1,4 @@
-package OOP;
+package OOP.bai1_29;
 
 public class NV_VanPhong extends NhanVien{
     int soNgayLamViec;

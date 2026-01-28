@@ -1,4 +1,6 @@
-package OOP;
+package OOP.bai1_27;
+
+import OOP.bai1_24.Diem2D;
 
 import java.util.List;
 

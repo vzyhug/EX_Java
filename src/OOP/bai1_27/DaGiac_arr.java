@@ -1,4 +1,6 @@
-package OOP;
+package OOP.bai1_27;
+
+import OOP.bai1_24.Diem2D;
 
 public class DaGiac_arr {
     Diem2D ds[];

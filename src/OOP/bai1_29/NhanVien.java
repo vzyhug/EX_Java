@@ -1,4 +1,4 @@
-package OOP;
+package OOP.bai1_29;
 import java.util.Scanner;
 
 public abstract class NhanVien {

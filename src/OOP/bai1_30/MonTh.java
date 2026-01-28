@@ -1,5 +1,4 @@
-package OOP;
-import java.util.Scanner;
+package OOP.bai1_30;
 
 public class MonTh extends MonHoc{
     double kt1;

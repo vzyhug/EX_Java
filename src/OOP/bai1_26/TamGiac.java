@@ -1,5 +1,5 @@
-package OOP;
-import java.util.Scanner;
+package OOP.bai1_26;
+import OOP.bai1_24.Diem2D;
 
 public class TamGiac {
     Diem2D dinh1 ,dinh2,dinh3;

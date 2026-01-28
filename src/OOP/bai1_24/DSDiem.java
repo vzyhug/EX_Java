@@ -1,4 +1,4 @@
-package OOP;
+package OOP.bai1_24;
 
 import java.util.Scanner;
 

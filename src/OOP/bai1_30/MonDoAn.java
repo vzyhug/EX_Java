@@ -1,4 +1,4 @@
-package OOP;
+package OOP.bai1_30;
 import java.util.Scanner;
 
 public class MonDoAn extends MonHoc{
