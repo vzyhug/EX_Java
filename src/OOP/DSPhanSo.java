@@ -47,5 +47,9 @@ public class DSPhanSo {
         System.out.println("phan so lon nhat");
         PhanSo max = lstPhanSo.stream().max((p1, p2)->p1.tu*p2.mau - p2.tu*p1.mau).orElse(new PhanSo(0,1));
         max.HienThi();
+        //
+        System.out.println("sap xep danh sach: ");
+        List<PhanSo> lstSort =lstPhanSo.stream().sorted((p1,p2)->p1.tu*p2.mau - p2.tu*p1.mau).toList();
+        lstSort.forEach((t)->t.HienThi());
     }
 }
